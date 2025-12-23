@@ -6,9 +6,9 @@ It's my attempt at reproducing OpenHand's CodeActAgent or you could also say cod
 
 It uses bash terminal, terminal commands, create a new file, write to a new file, edit the file at specific lines, all autonomously based on the instruction provided by the user.
 
-Here's a simple lightweight example.
+Here's a simple lightweight example video.
 
-[Video](/utils/output3.mp4)
+[![Watch the video](https://img.youtube.com/vi/8bN6JtvXUrk/maxresdefault.jpg)](https://youtu.be/8bN6JtvXUrk)
 
 I prompt the agent to write me a script to simulate solar system in javascript. It first.
 
