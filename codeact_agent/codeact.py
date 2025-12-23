@@ -12,7 +12,7 @@ from litellm import completion
 from pydantic import BaseModel
 
 class Config(BaseModel):
-    model: str = "gpt-4o-mini-2024-07-18"
+    model: str = "gpt-5-mini"
 
 
 class Content(BaseModel):
